@@ -10,24 +10,7 @@ This project implements an intelligent traffic management system utilizing **Aut
 - 🎥 **Visualization capabilities**
 
 ### 🎬 Results
-You can find the result video at this location:  
-📂 **"Provide the link to the output video here."**
-
----
-
-## 🏗️ Project Structure
-├── CV_Basics/                                 # Computer vision and OCR learning materials
-├── data/                                      # Input data and videos
-├── number_plate_detection_model_training/     # Model training files
-├── object_tracker/                            # Main detection and vehicle tracking code
-├── output_videos/                             # Generated result videos
-├── output/                                   # Initial detection CSV files
-├── add_missing_data.py                        # Data interpolation script
-├── main.py                                    # Main execution file
-├── requirements.txt                           # Project dependencies
-└── visualize.py                               # Video visualization script
-
----
+You can find the result video at output_video
 
 ## 🚀 Workflow
 1. 🏎️ **Execute `main.py`**  
