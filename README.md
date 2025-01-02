@@ -43,7 +43,7 @@ You can find the result video at output_video
 Create a copy of .env.example (if provided) and rename it to .env.
 Update the necessary secret keys and configurations.
 
-##🏃‍♂️ Running the Project
+## 🏃‍♂️ Running the Project
 1. Replace the path to your input video and your desired output directory.
 
 2. Run the main detection:
