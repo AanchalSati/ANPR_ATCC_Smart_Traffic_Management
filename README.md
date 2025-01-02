@@ -10,7 +10,7 @@ This project implements an intelligent traffic management system utilizing **Aut
 - 🎥 **Visualization capabilities**
 
 ### 🎬 Results
-You can find the result video at output_video
+You can find the result video at output_video/ directory
 
 ## 🚀 Workflow
 1. 🏎️ **Execute `main.py`**  
