@@ -16,17 +16,16 @@ You can find the result video at this location:
 ---
 
 ## 🏗️ Project Structure
-├── CV_Basics/                                     # Computer vision and OCR learning materials 
-├── data/                                          # Input data and videos 
-├── number_plate_detection_model_training/         # Model training files 
-├── object_tracker/                                # Main detection and vehicle tracking code 
-├── output_videos/                                 # Generated output videos 
-├── output/                                        # Initial detection CSV files 
-├── main_1.py                                      # Main execution file (old) 
-├── add_missing_data.py                            # Data interpolation script 
-├── main.py                                        # Main execution file 
-├── requirements.txt                               # Project dependencies 
-└── visualize.py                                   # Video visualization script
+├── CV_Basics/                                 # Computer vision and OCR learning materials
+├── data/                                      # Input data and videos
+├── number_plate_detection_model_training/     # Model training files
+├── object_tracker/                            # Main detection and vehicle tracking code
+├── output_videos/                             # Generated result videos
+├── output/                                   # Initial detection CSV files
+├── add_missing_data.py                        # Data interpolation script
+├── main.py                                    # Main execution file
+├── requirements.txt                           # Project dependencies
+└── visualize.py                               # Video visualization script
 
 ---
 
