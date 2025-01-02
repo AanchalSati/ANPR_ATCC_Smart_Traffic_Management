@@ -59,6 +59,6 @@ Update the necessary secret keys and configurations.
    python visualize.py
    ```
 ## 📄 License
-ANPR and ATCC for Smart Traffic Management is released under the [MIT License](), allowing you to freely use, modify, and distribute the project.   
+ANPR and ATCC for Smart Traffic Management is released under the [MIT License](https://github.com/AanchalSati/ANPR_ATCC_Smart_Traffic_Management/blob/main/LICENSE), allowing you to freely use, modify, and distribute the project.   
    
 
