@@ -29,28 +29,33 @@ You can find the result video at output_video
    ```bash
    git clone https://github.com/AanchalSati/ANPR_ATCC_Smart_Traffic_Management.git
    cd anpr-atcc-traffic-management
-   
+   ```
 2. Create and activate a virtual environment (recommended):
-bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 3. Install dependencies:
-bash
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
+   ```
 4. Configure environment variables:
 Create a copy of .env.example (if provided) and rename it to .env.
 Update the necessary secret keys and configurations.
 
-🏃‍♂️ Running the Project
-Replace the path to your input video and your desired output directory.
+##🏃‍♂️ Running the Project
+1. Replace the path to your input video and your desired output directory.
 
-Run the main detection:
-
-python main.py
-Perform data interpolation:
-python add_missing_data.py
-Generate visualization:
-python visualize.py
+2. Run the main detection:
+   ```bash 
+   python main.py
+   ```
+3. Perform data interpolation:
+   ```bash
+   python add_missing_data.py
+   ```
+4. Generate visualization:
+   ```bash
+   python visualize.py
+   ```
 
